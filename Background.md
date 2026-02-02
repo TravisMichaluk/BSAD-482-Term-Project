@@ -26,3 +26,25 @@ International Ice Hockey Federation. (2025). Edmonton and Red Deer to host 2027 
 Alberta sport event reports. (2025). Major sport events economic impact estimates.
 
 Calgary Hotel Association. (2025). Visitor economy impact summary.
+
+# Planned Data Sources
+
+
+Statistics Canada — Provincial GDP by industry
+
+Statistics Canada — Labour Force Survey
+
+Statistics Canada — Canadian Business Counts
+
+https://www150.statcan.gc.ca/n1/en/type/data?MM=1
+
+
+
+World Bank — Regional Economic Indicators
+https://databank.worldbank.org/source/world-development-indicators
+
+
+Government of Alberta — Tourism and Economic Development Reports
+https://economicdashboard.alberta.ca/topics/tourism/
+
+
