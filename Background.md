@@ -31,6 +31,7 @@ Calgary Hotel Association. (2025). Visitor economy impact summary.
 
 
 Statistics Canada — Provincial GDP by industry
+> [!TIP] This could be good if "industry" includes tourism events, you might have to dig deep on NOC codes, tier 4 or 5
 
 Statistics Canada — Labour Force Survey
 
@@ -46,5 +47,7 @@ https://databank.worldbank.org/source/world-development-indicators
 
 Government of Alberta — Tourism and Economic Development Reports
 https://economicdashboard.alberta.ca/topics/tourism/
+
+
 
 
