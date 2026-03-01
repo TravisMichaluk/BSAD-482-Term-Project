@@ -35,3 +35,8 @@ Public investment in local business development improves business sustainability
 
 **B1 – Budget Constraint Loop**
 Public funding for sport tourism and public funding for local business development compete for the same limited financial resources. As funding allocations increase in one area, fewer resources remain available for the other, creating a balancing dynamic. This budget constraint limits the expansion of both strategies simultaneously and forces policymakers to manage tradeoffs between short-term event-driven economic stimulation and long-term local business sustainability.
+
+
+<img width="1503" height="884" alt="Screenshot 2026-03-01 at 1 40 56 PM" src="https://github.com/user-attachments/assets/7f43d5a0-022a-45ff-adb9-3017ac78222a" />
+
+
