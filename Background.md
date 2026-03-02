@@ -1,52 +1,43 @@
 # Full Background of the Project
 
-Sport tourism has become a growing economic force in Alberta, prompting policymakers to consider how best to allocate limited public funds to maximize economic and community benefits. Sport tourism refers to travel that involves either participating in or attending sporting events, which generates spending on accommodations, food and beverage, retail, and local services. In Alberta, data from multiple municipalities shows that hosting sport events contributes millions of dollars to regional and provincial economies. For example, in 2024 over 214 sport events in Lethbridge generated more than $21.5 million in economic impact for the province, including $18 million for the city itself, through spending by out-of-town participants, staff, and spectators on lodging, dining, and other local services (Lethbridge Sport Council, 2025/2026).
 
+In the modern National Hockey League (NHL), the salary cap is the ultimate constraint on competitive success. With the cap projected to rise to approximately $92.5 million for the 2025-26 season, every dollar allocated to the roster must generate tangible on-ice value. Goaltending, often described by analysts as "voodoo" due to its inherent year-over-year volatility, represents the most significant financial risk for a General Manager (GM). The stakes of this decision are binary: a correctly managed goaltending budget can facilitate a championship window, while an over-investment in a declining or injured "elite" starter creates "dead cap" space. This financial anchor often leads to a lack of depth in other critical areas, resulting in missed playoffs and the eventual termination of front-office leadership.
 
-The stakes of the decision to prioritize sport tourism events versus direct investment in local hospitality and small business development are both economic and social. On one hand, sport tourism can lead to sizeable short-term boosts in local spending and employment. Beyond Lethbridge, elite sport events such as the FIS Snowboard World Cups and Nordiq Ski Nationals are anticipated to contribute economic activity worth millions to host cities such as Calgary and Canmore, supported by provincial grant funding (Alberta sport event reports, 2025). Further highlighting the potential for large impacts, the announcement that Edmonton and Red Deer will co-host the 2027 IIHF World Junior Championship underscores the province’s ability to attract major international events with projected economic impacts exceeding $90 million, offering opportunities for hospitality sectors across two metropolitan regions (International Ice Hockey Federation, 2025).
+The primary tension in this decision lies between "Statistical Reliability" and "Resource Efficiency." An elite starter, defined in this framework as a player commanding a cap hit of $7 million or more, provides a psychological and statistical "floor." A GM paying for a Connor Hellebuyck or an Andrei Vasilevskiy is buying the peace of mind that comes with a proven track record. However, the trade-off is the "Opportunity Cost" of that capital.
 
+The "Fatigue Loop" is a critical factor making this choice difficult. Data indicates that as a goaltender’s workload increases beyond 55 games, their save percentage and "Goals Saved Above Expected" (GSAx) frequently decline in the final quarter of the season. By investing in an elite starter, a team often lacks the funds for a high-quality backup, forcing the starter into a heavy workload that leads to cumulative fatigue and potential injury. Conversely, the "1A/1B Tandem" model maximizes efficiency but introduces "Clutch Risk"—the fear that neither goaltender possesses the elite ability required to carry a team through the high-pressure environment of a seven-game playoff series.
+Key Stakeholders
 
-However, this decision is not straightforward. First, not all communities experience the same level of economic benefit. Smaller or recurring regional events may bring modest impact compared to internationally broadcast tournaments, and impacts can vary across sectors and demographic groups. Local businesses that do not directly benefit from sports tourism, such as those outside downtown hotel and restaurant corridors, might receive little economic spillover. In addition, investments to secure and stage large sport events often require public funding that could otherwise be directed toward small business grants, workforce development, or infrastructure improvements that benefit local entrepreneurs year-round.
+    The General Manager: The primary decision-maker whose job security is tied to the team's cap health and post-season results.
 
+    The Coaching Staff: Who must manage the nightly workload and player recovery. They often prefer the stability of a single starter but suffer when that starter becomes overworked.
 
-The decision also involves tension between long-term economic strategies and short-term returns. While sport tourism may produce spikes in revenue during events, its effects after the events conclude can be limited if communities lack ongoing tourism streams. Conversely, targeted support for local hospitality and small businesses, for example through marketing assistance, business training, or property tax relief can strengthen economic resilience over longer horizons.
+    The Players: Roster depth is a zero-sum game; every dollar spent on a goalie is a dollar not spent on a top-four defenseman or a scoring winger who could support the team.
 
+    Ownership and Fans: Who demand a return on investment through ticket sales and deep playoff runs, both of which are jeopardized by poor goaltending.
 
-Key stakeholders affected by this decision include municipal and provincial governments who allocate funding and manage tourism strategy, local business owners in hospitality, retail, and services who may gain from increased visitor traffic; residents concerned about tax use and potential disruptions from large events; and sport organizations that depend on visible platforms and hosting opportunities. Sport tourism advocates emphasize showcased city branding and employment opportunities, whereas local business groups may seek predictable, sustained economic growth rather than the boom-and-bust cycles associated with events.
+Current Approach and Historical Context
 
+For decades, the "Workhorse" model was the league standard, with Hall-of-Fame starters playing 70+ games per season. However, the 2024-25 season confirmed a paradigm shift. Recent Stanley Cup champions have increasingly utilized "Value Goalies"—players paid under $3 million—who produce top-tier results when supported by a structured defensive system. The current approach among progressive GMs is to avoid long-term, high-AAV goalie contracts in favor of shorter, flexible tandem arrangements. This "Resource Allocation" strategy treats the goaltender as a component of the team defense rather than an isolated star, prioritizing the "system" over the "individual."
 
-Currently, Alberta’s approach blends elements of both strategies. Provincial grant programs support hosting sport competitions, while hotel associations and tourism bodies work to expand broader visitor economies through conventions and other events (Calgary Hotel Association, 2025). This dual approach reflects an ongoing policy debate about the best use of economic development funds in a competitive tourism landscape.
 
 # References
 
-Lethbridge Sport Council. (2025/2026). 2024 sport tourism economic impact report.
+Luszczyszyn, D. (2024). The volatility of NHL goaltending: Why paying for 'Elite' is a gamble. The Athletic.
 
-International Ice Hockey Federation. (2025). Edmonton and Red Deer to host 2027 IIHF World Junior Championship.
+MoneyPuck. (2025). Goalie efficiency and Goals Saved Above Expected (GSAx) by salary tier. [Data set]. https://moneypuck.com/goalies.htm
 
-Alberta sport event reports. (2025). Major sport events economic impact estimates.
-
-Calgary Hotel Association. (2025). Visitor economy impact summary.
+Seravalli, F. (2024). The evolution of the NHL tandem: How cap constraints changed the crease. Daily Faceoff.
 
 # Planned Data Sources
 
+Planned Datasets
 
-Statistics Canada — Provincial GDP by industry
-> [!TIP] This could be good if "industry" includes tourism events, you might have to dig deep on NOC codes, tier 4 or 5
+    NHL Official Statistics: Historical games played, save percentage, and wins (2024-25). 
 
-Statistics Canada — Labour Force Survey
+    PuckPedia: Salary cap hits and contract duration for all active goaltenders. 
 
-Statistics Canada — Canadian Business Counts
-
-https://www150.statcan.gc.ca/n1/en/type/data?MM=1
-
-
-
-World Bank — Regional Economic Indicators
-https://databank.worldbank.org/source/world-development-indicators
-
-
-Government of Alberta — Tourism and Economic Development Reports
-https://economicdashboard.alberta.ca/topics/tourism/
+    MoneyPuck Advanced Metrics: Goals Saved Above Expected (GSAx) and High-Danger Save Percentage. 
 
 
 
