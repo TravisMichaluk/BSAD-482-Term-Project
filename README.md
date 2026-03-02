@@ -8,11 +8,6 @@ NHL General Managers
 # Decision: 
 Should an NHL General Manager commit a high-value, long-term contract to a single "Elite Starter" or allocate that same budget to a "1A/1B Tandem" for the 2025-26 season?
 
-> [!TIP]
-> This could be difficult to answer because you are basing it on a counterfactural - it's one or the other but you probably don't have historical evidence of the outomes of both choices..  Find a way to compare the economic investment impact of both sides - so does 1M invested in tourism events lead to NNN GDP, how does that compare to hospitality
-
-> [!WARNING] I see economic spinoff effect reports but no "open data".  This might be really hard to answer.  https://rto7.ca/Documents/Public/Festivals-Events/Economic-Impacts-of-97-Festivals-and-Events
-> Consider a pivot to something like "Where are most people visiting in canada?" to reveal where investment dollars could be used stimulate.  Stats canada should have this data.
 
 # Executive Summary
 
