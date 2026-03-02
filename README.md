@@ -1,12 +1,12 @@
-# Games or Growth: Public Investment Tradeoffs in Alberta’s Sport Tourism Economy
+# The "Blue Paint" Dilemma
 
 
 # Decision Maker: 
-Alberta Minister of Tourism and Sport
+NHL General Managers
 
 
 # Decision: 
-Should the Government of Alberta prioritize public investment in major sport tourism events and facilities, or direct those funds toward supporting local small business development in the hospitality sector?
+Should an NHL General Manager commit a high-value, long-term contract to a single "Elite Starter" or allocate that same budget to a "1A/1B Tandem" for the 2025-26 season?
 
 > [!TIP]
 > This could be difficult to answer because you are basing it on a counterfactural - it's one or the other but you probably don't have historical evidence of the outomes of both choices..  Find a way to compare the economic investment impact of both sides - so does 1M invested in tourism events lead to NNN GDP, how does that compare to hospitality
@@ -15,9 +15,12 @@ Should the Government of Alberta prioritize public investment in major sport tou
 > Consider a pivot to something like "Where are most people visiting in canada?" to reveal where investment dollars could be used stimulate.  Stats canada should have this data.
 
 # Executive Summary
-Sport tourism has become an increasingly prominent component of Alberta’s economic development strategy, with major sporting events, competitions, and sport infrastructure investments positioned as tools for attracting visitors, stimulating local spending, and supporting employment in the hospitality and tourism sectors. High-profile events such as national championships and international tournaments generate short-term economic activity through increased hotel occupancy, restaurant revenue, transportation demand, and retail spending. At the same time, Alberta’s local hospitality and tourism businesses continue to face structural challenges related to seasonality, workforce shortages, and uneven recovery across regions and communities. This creates a critical policy question regarding how limited public funds should be allocated to maximize long-term economic value.
 
-The central decision facing Alberta’s economic and tourism policymakers is whether to prioritize public investment in attracting and hosting major sport tourism events and facilities, or to direct those resources toward sustained support for locally owned hospitality and tourism businesses. While sport tourism can produce concentrated economic boosts and international visibility, its benefits may be unevenly distributed and time-limited. In contrast, direct local business investment may strengthen long-term economic resilience but lack the visibility and immediate impact associated with large-scale events. This decision matters because it shapes employment patterns, business sustainability, community development, and the overall structure of Alberta’s tourism economy, influencing whether growth is driven by episodic event-based surges or by stable, locally anchored enterprise development.
+The National Hockey League operates under a rigorous hard salary cap, transforming roster construction into a high-stakes exercise in resource optimization. Historically, the prevailing wisdom favored the "workhorse" model, where a single elite goaltender commanded a significant percentage of the team’s budget and handled the vast majority of starts. However, the 2024-25 season underscored a shifting paradigm toward the "1A/1B" tandem model. As the speed and physical toll of the modern game increase, the decision of how to distribute capital within the "blue paint" has emerged as a primary determinant of a franchise’s long-term competitive ceiling.
+
+This analysis focuses on the pivotal choice facing a General Manager during the Summer 2025 Free Agency period: committing a premium contract of $7.0 million or more to a single elite starter or allocating that same budget to pair two capable tandem goaltenders. This is not a simple talent evaluation but a complex risk-management problem. While elite stars offer a high degree of reliability and "star power," data from the most recent season suggests that lower-cost tandem players can often produce comparable efficiency on a per-dollar basis. Choosing the tandem route potentially allows a GM to reallocate millions in "cap savings" to bolster the defensive corps or top-six scoring depth, creating a more balanced and resilient roster.
+
+The stakes of this decision are illustrated by the inherent volatility of the goaltending position. A single injury or a statistical regression from a high-priced starter can effectively close a championship window and leave a team with "dead cap" space that is difficult to move. Conversely, an improperly constructed tandem may lack the high-end capability required to steal a series during the Stanley Cup Playoffs. By evaluating the relationship between salary and advanced metrics like Goals Saved Above Expected (GSAx), this project establishes a decision-intelligence framework to help a General Manager minimize financial risk while maximizing the probability of post-season success.
 
 [Read more](background.md)
 
