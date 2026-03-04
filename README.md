@@ -35,5 +35,13 @@ Public investment in local business development improves business sustainability
 Public funding for sport tourism and public funding for local business development compete for the same limited financial resources. As funding allocations increase in one area, fewer resources remain available for the other, creating a balancing dynamic. This budget constraint limits the expansion of both strategies simultaneously and forces policymakers to manage tradeoffs between short-term event-driven economic stimulation and long-term local business sustainability.
 
 
+Data Citations (APA 7th Edition):
 
+Hockey-Reference. (2025). 2024-25 NHL summary: League-wide averages and team statistics. https://www.hockey-reference.com/leagues/stats.html
+
+MoneyPuck. (2025). NHL goaltender advanced stats: 2024-2025 regular season [Data set]. https://moneypuck.com/data.htm
+
+National Hockey League. (2025). Goaltender statistics: 2024-2025 regular season [Data set]. https://www.nhl.com/stats/goalies
+
+PuckPedia. (2025). Goaltender salary cap hits and contract details [Data set]. https://puckpedia.com/players/search
 
