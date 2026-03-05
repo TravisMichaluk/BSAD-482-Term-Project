@@ -36,7 +36,7 @@ By reducing the Investment in an Elite Goalie, a team increases its Available Sa
 
 
 
-Data Citations (APA 7th Edition):
+# Data Citations (APA 7th Edition):
 
 Hockey-Reference. (2025). 2024-25 NHL summary: League-wide averages and team statistics. https://www.hockey-reference.com/leagues/stats.html
 
