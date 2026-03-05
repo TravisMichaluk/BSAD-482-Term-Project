@@ -1,4 +1,4 @@
-Data Inventory and Documentation
+## Data Inventory and Documentation
 
 This project utilizes a multi-source dataset to evaluate the relationship between financial investment and on-ice performance for NHL goaltenders during the 2024-2025 season. The following documentation outlines the origin, retrieval, and licensing of the data used in this analysis.
 
