@@ -21,18 +21,19 @@ The stakes of this decision are illustrated by the inherent volatility of the go
 
 ## Initial CLD Diagram
 
-![Causal Loop Diagram](img/CLD-Diagram.png)
+<img width="1870" height="623" alt="Blank diagram(1)" src="https://github.com/user-attachments/assets/9a787857-0345-4633-88c1-7f33025ec4e4" />
+
 
 ### Key Feedback Loop Explanation
 
-**R1 – Sport Tourism Growth Loop**
-Increased public funding for sport tourism enables the hosting of more major sporting events, which attracts higher volumes of visitors to Alberta. These visitors generate increased hospitality spending, leading to higher local business revenues and growth in tourism sector employment. As employment and economic activity rise, regional economic growth strengthens, expanding public funding capacity and political support for continued sport tourism investment. This reinforcing loop creates a self-amplifying cycle where initial investments in sport tourism can compound economic returns over time.
+**Loop R1: The "Elite Fatigue Trap" (Reinforcing)
 
-**R2 – Local Economy Stability Loop**
-Public investment in local business development improves business sustainability and strengthens community economic resilience. This resilience supports more stable local employment and contributes to long-term regional economic growth. As the economy becomes more stable and diversified, public funding capacity increases, enabling continued investment in local enterprises. This loop reinforces long-term economic stability by prioritizing sustained, community-anchored growth rather than episodic event-driven surges.
+This loop illustrates how a high financial commitment to a single goaltender can create a self-sustaining cycle of performance degradation. When an organization makes a significant Investment in an Elite Goalie, there is an institutional pressure to maximize that investment through a high Goaltender Workload. This excessive game count leads to Goaltender Fatigue, which negatively impacts On-Ice Performance. In a reinforcing cycle, poor performance often leads the organization to believe they need to invest even more in "Elite" talent to solve their goaltending issues, further draining resources and repeating the cycle.
 
-**B1 – Budget Constraint Loop**
-Public funding for sport tourism and public funding for local business development compete for the same limited financial resources. As funding allocations increase in one area, fewer resources remain available for the other, creating a balancing dynamic. This budget constraint limits the expansion of both strategies simultaneously and forces policymakers to manage tradeoffs between short-term event-driven economic stimulation and long-term local business sustainability.
+**Loop B1: The "Roster Strength Buffer" (Balancing)
+
+This loop demonstrates the "Decision Intelligence" behind the Tandem strategy. By reducing the Investment in an Elite Goalie, a team increases its Available Salary Cap. This financial flexibility is used to build Roster Depth, particularly in the defensive corps and bottom-six forwards. A deeper roster effectively lowers the number of High-Danger Shots Against, creating a "buffer" that stabilizes On-Ice Performance even for lower-cost goaltenders. This is a balancing loop because consistent, high-level performance from a tandem system removes the perceived need (and panic) to spend heavily on a franchise-level starter.
+
 
 
 Data Citations (APA 7th Edition):
