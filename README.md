@@ -26,13 +26,13 @@ The stakes of this decision are illustrated by the inherent volatility of the go
 
 ### Key Feedback Loop Explanation
 
-**Loop R1: The "Elite Fatigue Trap" (Reinforcing)
+# Loop R1: The "Elite Fatigue Trap" (Reinforcing)
 
 This loop illustrates how a high financial commitment to a single goaltender can create a self-sustaining cycle of performance degradation. When an organization makes a significant Investment in an Elite Goalie, there is an institutional pressure to maximize that investment through a high Goaltender Workload. This excessive game count leads to Goaltender Fatigue, which negatively impacts On-Ice Performance. In a reinforcing cycle, poor performance often leads the organization to believe they need to invest even more in "Elite" talent to solve their goaltending issues, further draining resources and repeating the cycle.
 
-**Loop B1: The "Roster Strength Buffer" (Balancing)
+# Loop B1: Roster Stregnth from Tandem Goalie Investment (Balancing)
 
-This loop demonstrates the "Decision Intelligence" behind the Tandem strategy. By reducing the Investment in an Elite Goalie, a team increases its Available Salary Cap. This financial flexibility is used to build Roster Depth, particularly in the defensive corps and bottom-six forwards. A deeper roster effectively lowers the number of High-Danger Shots Against, creating a "buffer" that stabilizes On-Ice Performance even for lower-cost goaltenders. This is a balancing loop because consistent, high-level performance from a tandem system removes the perceived need (and panic) to spend heavily on a franchise-level starter.
+By reducing the Investment in an Elite Goalie, a team increases its Available Salary Cap. This financial flexibility is used to build Roster Depth, particularly in the defensive corps and bottom-six forwards. A deeper roster effectively lowers the number of High-Danger Shots Against, creating a "buffer" that stabilizes On-Ice Performance even for lower-cost goaltenders. This is a balancing loop because consistent, high-level performance from a tandem system removes the perceived need (and panic) to spend heavily on a franchise-level starter.
 
 
 
