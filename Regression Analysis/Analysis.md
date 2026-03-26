@@ -17,6 +17,7 @@ GP carries a positive coefficient but is not statistically significant once GSAX
 HDSV% (β = 0.153, p = 0.625)
 High-Danger Save Percentage is positive in direction — better performance in high-danger situations is associated with higher Pts% — but is not statistically significant. This does not necessarily mean HDSV% is unimportant as a concept; it may simply be that GSAX already absorbs much of its explanatory signal, since GSAX is a cumulative metric that reflects high-danger performance among other factors. A GM should not dismiss HDSV% as irrelevant — it may be more valuable as a scouting and evaluation tool than as a standalone regression predictor.
 
+<img width="1765" height="1399" alt="goalie_regression_v2_plots" src="https://github.com/user-attachments/assets/1bb434ff-0fe3-445d-a023-5c6448672dca" />
 
 # Limitations
 ## Correlation vs. causation. 
