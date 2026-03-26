@@ -13,7 +13,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
 from pathlib import Path
-BASE = Path(__file__).parent
+BASE = Path(__file__).parent.parent / "data" / "data"
 
 # ── PAGE CONFIG ───────────────────────────────────────────────────────────────
 st.set_page_config(
@@ -140,10 +140,10 @@ st.markdown("""
 # ── DATA LOADING ──────────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    stats_df = pd.read_excel(BASE = Path(__file__).parent / "Goalie_Stats_24-25_Min_20_games.xlsx", sheet_name="Summary")
-    salaries = pd.read_excel(BASE = Path(__file__).parent / "Goalie_Salaries_2024-25.xlsx", sheet_name="Sheet2").dropna(subset=['Player'])
-    puck     = pd.read_excel(BASE = Path(__file__).parent / "goalies_puckpedia_24-25.xlsx", sheet_name="Sheet 1 - goalies", header=1)
-
+    stats_df = pd.read_excel("Goalie_Stats_24-25_Min_20_games.xlsx", sheet_name="Summary")
+    salaries = pd.read_excel("Goalie_Salaries_2024-25.xlsx", sheet_name="Sheet2").dropna(subset=['Player'])
+    puck     = pd.read_excel("goalies_puckpedia_24-25.xlsx", sheet_name="Sheet 1 - goalies", header=1)
+ 
     puck_all = puck[puck['situation'] == 'all'].copy()
     puck_all['HDSV%'] = 1 - (puck_all['highDangerGoals'] / puck_all['highDangerShots'])
     puck_all = puck_all[['name', 'HDSV%']].rename(columns={'name': 'Player'})
