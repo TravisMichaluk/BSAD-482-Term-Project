@@ -140,10 +140,14 @@ st.markdown("""
 # ── DATA LOADING ──────────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    stats_df = pd.read_excel("Goalie_Stats_24-25_Min_20_games.xlsx", sheet_name="Summary")
-    salaries = pd.read_excel("Goalie_Salaries_2024-25.xlsx", sheet_name="Sheet2").dropna(subset=['Player'])
-    puck     = pd.read_excel("goalies_puckpedia_24-25.xlsx", sheet_name="Sheet 1 - goalies", header=1)
- 
+    from pathlib import Path
+    BASE = Path(__file__).parent / "data" / "data"
+
+    stats_df = pd.read_excel(BASE / "Goalie_Stats_24-25_Min_20_games.xlsx", sheet_name="Summary")
+    salaries = pd.read_excel(BASE / "Goalie_Salaries_2024-25.xlsx", sheet_name="Sheet2").dropna(subset=['Player'])
+    puck     = pd.read_excel(BASE / "goalies_puckpedia_24-25.xlsx", sheet_name="Sheet 1 - goalies", header=1)
+    ...
+    
     puck_all = puck[puck['situation'] == 'all'].copy()
     puck_all['HDSV%'] = 1 - (puck_all['highDangerGoals'] / puck_all['highDangerShots'])
     puck_all = puck_all[['name', 'HDSV%']].rename(columns={'name': 'Player'})
