@@ -89,7 +89,7 @@ This project utilizes a multi-source dataset to evaluate the relationship betwee
 This bar chart reveals the reality behind the "clutch" save argument often used to justify massive goalie contracts. By isolating High-Danger Save Percentage and comparing the averages of the Elite (E) and Tandem (T) groups, we can see if the higher-paid players truly perform better when the defensive system breaks down. This matters because if the "T" group is competitive or superior in this metric, it deconstructs the primary risk-aversion argument for spending $7M on a starter. It provides the GM with a data-backed reason to trust a cheaper tandem in high-leverage playoff moments.
 
 
-### The "Bang for Your Buck" Beeswarm Plot**
+### The "Bang for Your Buck" Beeswarm Plot
 
 <img width="1430" height="825" alt="Best Bang for your buck" src="https://github.com/user-attachments/assets/825b634a-b08e-42eb-977a-11664edf47d8" />
 
