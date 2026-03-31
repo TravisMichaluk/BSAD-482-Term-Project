@@ -27,7 +27,7 @@ The stakes of this decision are illustrated by the inherent volatility of the go
 - [Background](Background.md)
 - [Data wrangling](Wrangling.md)
 - [Data](data/data)
-- [Key Visualizations and Intepretations](Key-Visualization-and-interpretations)
+- [Key Visualizations and Intepretations](Key-Visualizations-and-Intepretations)
 - [Regression analysis](regression-analysis/regression-analysis)
 - [Causal loop diagram](#cld-diagram)
 - [Key Feedback Loop Explanation](Key-Feedback-Loop-Explanation)
@@ -147,6 +147,16 @@ Leverage Point and Intervention
 
 
 The primary leverage point is on-ice performance (GSAX) — it sits at the intersection of all three loops. Intervening at GSAX rather than at salary is the key insight for the GM decision-maker. Targeting goalies with strong GSAX trajectories regardless of contract tier — and pairing them with a deep defensive roster — activates B1 and B2 simultaneously while disrupting the R1 cycle. This is precisely the case our regression confirms: GSAX is the only statistically significant predictor of Pts% (p < 0.001), and salary is not.
+
+## Analysis
+
+To identify which goaltender metrics are most associated with team success, a multiple linear regression was estimated using data from 56 NHL goalies who played a minimum of 20 games during the 2024-25 regular season. The dependent variable was team points percentage (Pts%), and the three independent variables were games played (GP), high-danger save percentage (HDSV%), and goals saved above expected (GSAX).
+
+The model was statistically significant overall and explained approximately 39% of the variation in team Pts% — a meaningful result given that goaltending is one of many factors that determine a team's standing. Of the three predictors, GSAX was the only statistically significant variable (p < 0.001). Each additional goal saved above expected was associated with roughly a 0.44 percentage point increase in team Pts%, holding all other variables constant. Games played and HDSV% were not independently significant once GSAX was included in the model, suggesting that GSAX already captures much of their explanatory signal.
+
+Diagnostic checks confirmed that the model assumptions were well satisfied: all variance inflation factors were below 1.4, indicating no multicollinearity concerns, and the Shapiro-Wilk test confirmed normally distributed residuals (p = 0.125).
+The key takeaway for decision-makers is that GSAX — not salary, not workload, and not save percentage alone — is what predicts winning. This finding directly informs the central question of the project: teams seeking to maximize competitive output per cap dollar should prioritize goaltenders with strong GSAX profiles regardless of contract tier.
+
 
 ## Recomendations
 
