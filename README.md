@@ -19,20 +19,32 @@ The stakes of this decision are illustrated by the inherent volatility of the go
 
 [Read more](background.md)
 
-## Initial CLD Diagram
+## CLD Diagram
 
-<img width="1870" height="623" alt="Blank diagram(1)" src="https://github.com/user-attachments/assets/9a787857-0345-4633-88c1-7f33025ec4e4" />
+<img width="1440" height="974" alt="image" src="https://github.com/user-attachments/assets/d430ea53-cc82-4091-af49-819a0a5ca01d" />
+
+
+<img width="1440" height="1104" alt="image" src="https://github.com/user-attachments/assets/18e86459-b72c-49b4-80e8-d48725a797d7" />
+
+
 
 
 ### Key Feedback Loop Explanation
 
-# Loop R1: The "Elite Fatigue Trap" (Reinforcing)
+# Loop R1 — The Elite Fatigue Trap (Reinforcing)
+This loop sits at the heart of the conventional GM mindset. A large investment in an elite starter creates institutional pressure to justify that spend through a high goaltender workload — the franchise goalie plays 60+ games because the team paid for 60+ games. Sustained workload produces fatigue, which degrades on-ice performance (GSAX declines). Lower GSAX reduces team Pts%, and poor standings create urgency for the GM to "solve" the goaltending problem — which, in a reinforcing loop, leads back to seeking another elite signing. Each cycle can leave the team with dead cap space and a regressing starter, amplifying rather than resolving the original problem.
 
-This loop illustrates how a high financial commitment to a single goaltender can create a self-sustaining cycle of performance degradation. When an organization makes a significant Investment in an Elite Goalie, there is an institutional pressure to maximize that investment through a high Goaltender Workload. This excessive game count leads to Goaltender Fatigue, which negatively impacts On-Ice Performance. In a reinforcing cycle, poor performance often leads the organization to believe they need to invest even more in "Elite" talent to solve their goaltending issues, further draining resources and repeating the cycle.
 
-# Loop B1: Roster Stregnth from Tandem Goalie Investment (Balancing)
+# Loop B1 — Roster Depth from Tandem Investment (Balancing)
+B1 is the corrective loop that the tandem model activates. By reducing investment in a single elite starter, the team increases available salary cap. That flexibility funds roster depth — specifically defensive personnel — which reduces the volume of high-danger shots against. Fewer high-danger opportunities lower the performance burden on the goalie, producing more stable and efficient GSAX outcomes even from lower-cost netminders. B1 counteracts R1 by attacking the source of goalie fatigue rather than the goalie himself.
 
-By reducing the Investment in an Elite Goalie, a team increases its Available Salary Cap. This financial flexibility is used to build Roster Depth, particularly in the defensive corps and bottom-six forwards. A deeper roster effectively lowers the number of High-Danger Shots Against, creating a "buffer" that stabilizes On-Ice Performance even for lower-cost goaltenders. This is a balancing loop because consistent, high-level performance from a tandem system removes the perceived need (and panic) to spend heavily on a franchise-level starter.
+
+# Loop B2 — The GSAX-Value Correction (Balancing)
+B2 is the analytical corrective loop that data surfaces. GSAX feeds directly into a GSAX-per-dollar efficiency metric. When cap hit is high, efficiency is low, which — for an analytically driven organization — should reduce willingness to commit further elite spending. Meanwhile, strong HDSV% contributes positively to GSAX, but is itself suppressed by a high volume of high-danger shots. B2 connects the regression findings back to the decision structure: if GMs track GSAX/$ rather than raw salary, the loop redirects capital toward high-efficiency, lower-cost options.
+
+
+# Leverage Point and Intervention
+The primary leverage point is on-ice performance (GSAX) — it sits at the intersection of all three loops. Intervening at GSAX rather than at salary is the key insight for the GM decision-maker. Targeting goalies with strong GSAX trajectories regardless of contract tier — and pairing them with a deep defensive roster — activates B1 and B2 simultaneously while disrupting the R1 cycle. This is precisely the case your regression confirms: GSAX is the only statistically significant predictor of Pts% (p < 0.001), and salary is not.
 
 
 
