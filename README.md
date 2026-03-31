@@ -43,7 +43,7 @@ B2 is the analytical corrective loop that data surfaces. GSAX feeds directly int
 
 
 # Leverage Point and Intervention
-The primary leverage point is on-ice performance (GSAX) — it sits at the intersection of all three loops. Intervening at GSAX rather than at salary is the key insight for the GM decision-maker. Targeting goalies with strong GSAX trajectories regardless of contract tier — and pairing them with a deep defensive roster — activates B1 and B2 simultaneously while disrupting the R1 cycle. This is precisely the case your regression confirms: GSAX is the only statistically significant predictor of Pts% (p < 0.001), and salary is not.
+The primary leverage point is on-ice performance (GSAX) — it sits at the intersection of all three loops. Intervening at GSAX rather than at salary is the key insight for the GM decision-maker. Targeting goalies with strong GSAX trajectories regardless of contract tier — and pairing them with a deep defensive roster — activates B1 and B2 simultaneously while disrupting the R1 cycle. This is precisely the case our regression confirms: GSAX is the only statistically significant predictor of Pts% (p < 0.001), and salary is not.
 
 
 
