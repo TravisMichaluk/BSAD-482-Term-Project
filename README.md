@@ -84,22 +84,32 @@ This project utilizes a multi-source dataset to evaluate the relationship betwee
 
 ### High-Danger Save Percentage Comparison
 
+<img width="1430" height="825" alt="High Danger Save Percentage Comparison" src="https://github.com/user-attachments/assets/fbced781-30d9-4813-860a-2510b683094d" />
+
 This bar chart reveals the reality behind the "clutch" save argument often used to justify massive goalie contracts. By isolating High-Danger Save Percentage and comparing the averages of the Elite (E) and Tandem (T) groups, we can see if the higher-paid players truly perform better when the defensive system breaks down. This matters because if the "T" group is competitive or superior in this metric, it deconstructs the primary risk-aversion argument for spending $7M on a starter. It provides the GM with a data-backed reason to trust a cheaper tandem in high-leverage playoff moments.
 
 
 ### The "Bang for Your Buck" Beeswarm Plot**
 
+<img width="1430" height="825" alt="Best Bang for your buck" src="https://github.com/user-attachments/assets/825b634a-b08e-42eb-977a-11664edf47d8" />
+
 The Beeswarm plot reveals the distribution of the entire goaltending market, specifically highlighting where performance (GSAX) "clumps" relative to salary. By color-coding the dots by Cap Hit, the decision-maker can immediately identify "Efficiency Outliers"—the green dots positioned far to the right. This matters because it visually isolates the "steals" in the league. It proves to a GM that high performance is not exclusive to high-salary clusters, providing the statistical confidence needed to pass on a big-name free agent in favor of an undervalued asset who produces elite-level saves.
 
-### Rolling Average Save Percentage** 
+### Rolling Average Save Percentage
+
+<img width="1430" height="837" alt="Rolling Average Save% by Game number" src="https://github.com/user-attachments/assets/9df07a16-e75f-4af1-aca6-e5157da7bb77" />
 
 This trend line reveals the fatigue trend by smoothing out single-game noise to show a goaltender’s performance trajectory over the season. It matters because it validates the Causal Loop Diagram  regarding workload. If the visualization shows an Elite starter's performance diving below the league average after about halfway through the season, while a Tandem goalie remains consistent due to a lighter workload, the GM has visual evidence that "less is more." This justifies a two-goalie system as a strategy for maintaining peak performance into the Stanley Cup Playoffs.
 
-### Cost per Win ($/W) Comparison**
+### Cost per Win ($/W) Comparison
+
+<img width="1430" height="837" alt="$ per win for Elite and Tandem Goalies" src="https://github.com/user-attachments/assets/74bb403f-102f-4ea4-9ba1-c0ab9874740d" />
 
 This visualization reveals the stark difference in "Price per Point" between the two investment models by calculating the average dollar amount of cap space spent for every win earned. For a General Manager, this is the ultimate return-on-investment (ROI) metric; it proves that a win from a "Tandem" goalie is significantly cheaper than one from an "Elite" starter. This matters because it quantifies the financial efficiency of the roster. By showing that a GM can secure the same 40 wins for millions of dollars less, it provides the economic justification to reallocate that "saved" capital into other high-impact areas like specialty teams or top-six scoring depth. 
 
-### Cap Hit vs. GSAx60**
+### Cap Hit vs. GSAx60
+
+<img width="1430" height="834" alt="Relationship between Salary and Value" src="https://github.com/user-attachments/assets/c141b103-6a3a-4a20-95da-882b5e4f69a6" />
 
 This scatter plot reveals the direct relationship—or often the lack thereof—between a goaltender’s salary and their per-minute efficiency (Goals Saved Above Expected per 60). By plotting every qualified goalie on this grid, we can identify "Performance Clusters." It matters for the decision because it visually isolates the "Value Unicorns": the players in the top-left quadrant who provide elite-level shot-stopping at a fraction of the market rate. This helps the GM move past "reputation-based" signings and instead pinpoint specific, undervalued targets who offer the highest probability of outperforming their contract value.
 
