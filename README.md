@@ -9,7 +9,17 @@ NHL General Managers
 Should an NHL General Manager commit a high-value, long-term contract to a single "Elite Starter" or allocate that same budget to a "1A/1B Tandem" for the 2025-26 season?
 
 
-# Executive Summary
+## Table of contents
+- [Executive summary](#executive-summary)
+- [Background](#background)
+- [Data sources](#data-sources)
+- [Methodology](#methodology)
+- [Regression analysis](#regression-analysis)
+- [Causal loop diagram](#causal-loop-diagram)
+- [Recommendations](#recommendations)
+
+
+## Executive Summary
 
 The National Hockey League operates under a rigorous hard salary cap, transforming roster construction into a high-stakes exercise in resource optimization. Historically, the prevailing wisdom favored the "workhorse" model, where a single elite goaltender commanded a significant percentage of the team’s budget and handled the vast majority of starts. However, the 2024-25 season underscored a shifting paradigm toward the "1A/1B" tandem model. As the speed and physical toll of the modern game increase, the decision of how to distribute capital within the "blue paint" has emerged as a primary determinant of a franchise’s long-term competitive ceiling.
 
@@ -18,6 +28,8 @@ This analysis focuses on the pivotal choice facing a General Manager during the 
 The stakes of this decision are illustrated by the inherent volatility of the goaltending position. A single injury or a statistical regression from a high-priced starter can effectively close a championship window and leave a team with "dead cap" space that is difficult to move. Conversely, an improperly constructed tandem may lack the high-end capability required to steal a series during the Stanley Cup Playoffs. By evaluating the relationship between salary and advanced metrics like Goals Saved Above Expected (GSAx), this project establishes a decision-intelligence framework to help a General Manager minimize financial risk while maximizing the probability of post-season success.
 
 [Read more](background.md)
+
+
 
 ## CLD Diagram
 
@@ -28,24 +40,31 @@ The stakes of this decision are illustrated by the inherent volatility of the go
 
 
 
-# Key Feedback Loop Explanation
+## Key Feedback Loop Explanation
 
-## Loop R1 — The Elite Fatigue Trap (Reinforcing)
+Loop R1 — The Elite Fatigue Trap (Reinforcing)
+
 This loop sits at the heart of the conventional GM mindset. A large investment in an elite starter creates institutional pressure to justify that spend through a high goaltender workload — the franchise goalie plays 60+ games because the team paid for 60+ games. Sustained workload produces fatigue, which degrades on-ice performance (GSAX declines). Lower GSAX reduces team Pts%, and poor standings create urgency for the GM to "solve" the goaltending problem — which, in a reinforcing loop, leads back to seeking another elite signing. Each cycle can leave the team with dead cap space and a regressing starter, amplifying rather than resolving the original problem.
 
 
-## Loop B1 — Roster Depth from Tandem Investment (Balancing)
+Loop B1 — Roster Depth from Tandem Investment (Balancing)
+
+
 B1 is the corrective loop that the tandem model activates. By reducing investment in a single elite starter, the team increases available salary cap. That flexibility funds roster depth — specifically defensive personnel — which reduces the volume of high-danger shots against. Fewer high-danger opportunities lower the performance burden on the goalie, producing more stable and efficient GSAX outcomes even from lower-cost netminders. B1 counteracts R1 by attacking the source of goalie fatigue rather than the goalie himself.
 
 
-## Loop B2 — The GSAX-Value Correction (Balancing)
+Loop B2 — The GSAX-Value Correction (Balancing)
+
+
 B2 is the analytical corrective loop that data surfaces. GSAX feeds directly into a GSAX-per-dollar efficiency metric. When cap hit is high, efficiency is low, which — for an analytically driven organization — should reduce willingness to commit further elite spending. Meanwhile, strong HDSV% contributes positively to GSAX, but is itself suppressed by a high volume of high-danger shots. B2 connects the regression findings back to the decision structure: if GMs track GSAX/$ rather than raw salary, the loop redirects capital toward high-efficiency, lower-cost options.
 
 
-## Leverage Point and Intervention
+Leverage Point and Intervention
+
+
 The primary leverage point is on-ice performance (GSAX) — it sits at the intersection of all three loops. Intervening at GSAX rather than at salary is the key insight for the GM decision-maker. Targeting goalies with strong GSAX trajectories regardless of contract tier — and pairing them with a deep defensive roster — activates B1 and B2 simultaneously while disrupting the R1 cycle. This is precisely the case our regression confirms: GSAX is the only statistically significant predictor of Pts% (p < 0.001), and salary is not.
 
-# Recomendations
+## Recomendations
 
 
 Allocate your goaltender budget toward a high-performing 1A/1B tandem rather than committing $7 million or more to a single elite starter. The evidence from the 2024-25 season is clear: what wins games is how many goals a goalie prevents beyond what is expected of them — not how much they are paid. Distributing your goaltending budget across two capable netminders produces comparable on-ice results at meaningfully lower cost, while freeing cap space to strengthen the parts of your roster that also drive winning.
@@ -62,7 +81,7 @@ Begin by screening free agent and trade targets using multi-year GSAX data rathe
 
 Incorporating two or three seasons of data would substantially improve reliability. Adding team-level defensive metrics — such as high-danger chances against per game — would help isolate individual goalie quality from team context. A playoff-specific GSAX analysis would also be valuable, since postseason performance is ultimately what defines a championship window and may weight the elite starter argument more heavily than regular season data alone can capture.
 
-# Data Citations (APA 7th Edition):
+## Data Citations (APA 7th Edition):
 
 Hockey-Reference. (2025). 2024-25 NHL summary: League-wide averages and team statistics. https://www.hockey-reference.com/leagues/stats.html
 
