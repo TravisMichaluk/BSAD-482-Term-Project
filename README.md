@@ -16,8 +16,9 @@ Should an NHL General Manager commit a high-value, long-term contract to a singl
 - [Data](data/data)
 - [Regression analysis](regression-analysis/regression-analysis)
 - [Causal loop diagram](#cld-diagram)
+- [Key Feedback Loop Explanation](Key-Feedback-Loop-Explanation)
 - [Recommendations](#recommendations)
-- [Data Citations][#Data-Citations] 
+- [Data Citations](#Data-Citations)
 
 
 ## Executive Summary
