@@ -9,16 +9,6 @@ NHL General Managers
 Should an NHL General Manager commit a high-value, long-term contract to a single "Elite Starter" or allocate that same budget to a "1A/1B Tandem" for the 2025-26 season?
 
 
-## Table of contents
-- [Executive summary](#executive-summary)
-- [Background](Background.md)
-- [Data wrangling](Wrangling.md)
-- [Data](data/data)
-- [Regression analysis](regression-analysis/regression-analysis)
-- [Causal loop diagram](#cld-diagram)
-- [Key Feedback Loop Explanation](Key-Feedback-Loop-Explanation)
-- [Recommendations](#recommendations)
-- [Data Citations](#Data-Citations)
 
 
 ## Executive Summary
@@ -30,6 +20,18 @@ This analysis focuses on the pivotal choice facing a General Manager during the 
 The stakes of this decision are illustrated by the inherent volatility of the goaltending position. A single injury or a statistical regression from a high-priced starter can effectively close a championship window and leave a team with "dead cap" space that is difficult to move. Conversely, an improperly constructed tandem may lack the high-end capability required to steal a series during the Stanley Cup Playoffs. By evaluating the relationship between salary and advanced metrics like Goals Saved Above Expected (GSAx), this project establishes a decision-intelligence framework to help a General Manager minimize financial risk while maximizing the probability of post-season success.
 
 [Read more](background.md)
+
+
+## Table of contents
+- [Executive summary](#executive-summary)
+- [Background](Background.md)
+- [Data wrangling](Wrangling.md)
+- [Data](data/data)
+- [Regression analysis](regression-analysis/regression-analysis)
+- [Causal loop diagram](#cld-diagram)
+- [Key Feedback Loop Explanation](Key-Feedback-Loop-Explanation)
+- [Recommendations](#recommendations)
+- [Data Citations](#Data-Citations)
 
 
 
