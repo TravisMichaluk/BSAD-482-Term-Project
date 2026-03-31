@@ -21,11 +21,10 @@ The stakes of this decision are illustrated by the inherent volatility of the go
 
 ## CLD Diagram
 
-<img width="1440" height="974" alt="image" src="https://github.com/user-attachments/assets/d430ea53-cc82-4091-af49-819a0a5ca01d" />
+<img width="1440" height="1186" alt="image" src="https://github.com/user-attachments/assets/54658482-f095-43ef-b2bd-e1079d6fc8e8" />
 
 
-<img width="1440" height="1104" alt="image" src="https://github.com/user-attachments/assets/18e86459-b72c-49b4-80e8-d48725a797d7" />
-
+<img width="1440" height="1356" alt="image" src="https://github.com/user-attachments/assets/4dfc0572-b26d-405a-9be4-9deea1af1322" />
 
 
 
